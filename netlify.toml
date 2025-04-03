@@ -1,4 +1,4 @@
 [[redirects]]
-from = "/*"
+from = "/car*"
 to = "/index.html"
 status = 200
